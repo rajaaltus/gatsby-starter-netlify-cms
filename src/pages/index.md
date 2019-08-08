@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Traditional Indian Restaurant
-image: /img/screenshot-2019-08-08-at-9.11.17-pm.png
+image: /img/flavor_wheel.jpg
 heading: Great Place to feed your taste buds
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
