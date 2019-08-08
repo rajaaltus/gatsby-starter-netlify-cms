@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Traditional Indian Restaurant
+image: /img/screenshot-2019-08-08-at-9.11.17-pm.png
+heading: Great Place to feed your taste buds
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Roti House
+  description: >-
+    India is vast county having diverse cultures and food habits. That gives us
+    numerous flavours and medicinal spices used in the food.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Variety of flavours and aromas coming from the food makes you moth watering
+  and will be perfect appetite for your food exploration.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +42,10 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    We offer both North and South indian cuisines. Tikka masala, Butter chicken,
+    Panner Butter, Naan, Paratha, Idli, Dosa, Vada and Rolls are our most
+    selling items.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +63,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
